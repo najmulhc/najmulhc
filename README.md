@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Najmul Hud Chowdhury Chayan</h1>
+<h1 align="center">Hi 👋, I'm Najmul Huda Chowdhury Chayan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. I use popular MERN stack to develop fullstack projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kridi32" alt="kridi32" /></a> </p>
