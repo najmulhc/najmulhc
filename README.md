@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kridi32" target="blank"><img src="https://img.shields.io/twitter/follow/kridi32?logo=twitter&style=for-the-badge" alt="kridi32" /></a> </p>
 
-- 🔭 I’m currently working on [Doctor's portal](https://github.com/kridi32/doctors-portal)
+- 🔭 I’m currently working on [Couchly](https://github.com/kridi32/coachly-frontend)
 
 - 🌱 I’m currently learning **NodeJS with ExpressJS**
 
