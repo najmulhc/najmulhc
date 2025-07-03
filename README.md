@@ -1,43 +1,97 @@
-<h1 align="center">Hi 👋, I'm Najmul</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+<h1 align="center" style="border:none;">
+  💻 najmulhc — <i>The Backend Barbarian</i>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najmulhc&label=Profile%20views&color=0e75b6&style=flat" alt="najmulhc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najmulhc" alt="najmulhc" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/najmulhc" target="blank"><img src="https://img.shields.io/twitter/follow/najmulhc?logo=twitter&style=for-the-badge" alt="najmulhc" /></a> </p>
-
-- 🔭 I’m currently working on [Unitracks](https://unitracks.vercel.app/)
-
-- 🌱 I’m currently learning **MongoDb and TypeScript**
-
-- 👯 I’m looking to collaborate on [ReactPlay](https://github.com/reactplay/react-play)
-
-- 🤝 I’m looking for help with [Unitracks](https://unitracks.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://najmulhc.vercel.app](https://najmulhc.vercel.app)
-
-- 📝 I regularly write articles on [https://dev.to/najmulhc](https://dev.to/najmulhc)
-
-- 💬 Ask me about **MERN stack and TypeScript**
-
-- 📫 How to reach me **najmulhc@outlook.com**
-
-- ⚡ Fun fact **I love to play Minecraft with my friends when I am not coding!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/najmulhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="najmulhc" height="30" width="40" /></a>
-<a href="https://twitter.com/najmulhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="najmulhc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/najmulhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmulhc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16629266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16629266" height="30" width="40" /></a>
-<a href="https://instagram.com/najmulhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najmulhc" height="30" width="40" /></a>
-<a href="https://hashnode.com/@najmulhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@najmulhc" height="30" width="40" /></a>
+<p align="center">
+  <b>TypeScript King 👑 • NestJS Sorcerer 🔮 • PostgreSQL Sniper 🎯</b><br>
+  I don’t just code. I engineer systems that survive scale, time, and bad PMs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najmulhc&show_icons=true&locale=en" alt="najmulhc" /></p>
+## 🧠 WHO AM I?
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmulhc&" alt="najmulhc" /></p>
+- 👨‍🎓 Business Grad turned Code Gladiator — DU BBA ⚔️ Backend Dev
+- 🏗️ I design **clean, modular, tested APIs** — like an architect, not a hacker
+- 🧠 Grinding 300+ LeetCode DSA problems to kill interviews like a boss
+- 🌍 Goal: 🇧🇩 → 🇸🇬 → 🇺🇸 without freelancing or fluff
+
+---
+
+## 🔥 SKILLS THAT SELL
+
+| Category       | Stack I Own |
+| -------------- | ----------- |
+| **Backend**    | NestJS, Express, Java, Spring (learning) |
+| **Languages**  | TypeScript (Advanced), Java, JavaScript |
+| **DBs**        | PostgreSQL, Redis |
+| **DevOps**     | Docker, GitHub Actions, CI/CD (learning) |
+| **API Mastery**| REST, JWT, GraphQL (beginner) |
+| **Tools**      | VS Code, Postman, Obsidian, Arc Browser |
+
+> I don’t just learn tech — I make it **dance** in production. 🕺
+
+---
+
+## 🚨 FEATURED BUILDS
+
+### 🏘️ [Amar Para](https://github.com/najmulhc/amar-para) — *“Smart Living, Bengali Style”*
+> A full-stack, culturally-rooted **community management system** for Dhaka neighborhoods. Think Rent, Complaints, Events — all digital.
+
+- Backend built in **NestJS + PostgreSQL**
+- Modular architecture. Validations. Custom error handling.
+- Auth, caching, testing, Dockerized. 📦
+
+---
+
+### 📸 [Chobi Sheba API Studio](https://github.com/najmulhc/chobi-sheba-api-studio) — *“Photographers, meet your backend.”*
+> A BaaS (Backend as a Service) for solo photographers to manage clients, shoots, and packages — built for Bangladeshi freelancers.
+
+- 🔐 JWT Auth • 🧹 Clean Code • 📄 RESTful Endpoints
+
+---
+
+### 🎵 [Unitracks](https://github.com/najmulhc/unitracks) — *“Study music, API style”*
+> Music-sharing backend for university nerds who study with playlists.
+
+---
+
+## 📈 MY DSA GRIND
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/najmulhc?theme=dark&font=Consolas&ext=contest)
+
+- 🧠 130+ problems solved so far
+- 🔍 Focused on deep pattern intuition (no brute copy-paste grind)
+- 🧩 Target: 300+ top-quality questions before hiring season
+
+---
+
+## 💼 WHY YOU SHOULD HIRE ME
+
+✅ Real-world projects (not todo apps)  
+✅ Strong backend fundamentals (Clean Arch, SOLID, Auth, DevOps)  
+✅ Hungry, consistent, and dangerous with deadlines  
+✅ No BS — Just working code, tested logic, and honest hustle
+
+> I don’t just build for GitHub stars. I build for **real-world pain**.
+
+---
+
+## 📡 CONNECT WITH ME
+
+| Platform | Link |
+| -------- | ---- |
+| 🌐 LinkedIn | [linkedin.com/in/najmulhc](https://linkedin.com/in/najmulhc) |
+| 🧠 LeetCode | [leetcode.com/najmulhc](https://leetcode.com/najmulhc) |
+| 💌 Email | najmulhudachowdhury@gmail.com | 
+
+---
+
+## 🧠 PERSONAL MISSION
+
+> **"I’m building software that speaks Bengali, scales globally, and leaves no tech debt behind."**
+
+Let’s build something you’ll be proud to ship. Ping me.
+
+---
+
